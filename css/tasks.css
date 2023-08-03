@@ -1,0 +1,24 @@
+.task {
+    padding-left: 0;
+}
+
+.tasks {
+    list-style: none;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+}
+
+.task__item {
+    border-bottom: 1px solid #dcdcdc;
+    margin: 10px;
+    align-items: center;
+}
+
+.task__content--done {
+    text-decoration: line-through #000000;
+}
+
+.task__content--hideShow {
+    display: none;
+}
