@@ -14,4 +14,6 @@ Basic app capable of creating and managing to-do list. Updated to feature immuta
 - HTML
 - CSS
 - Javascript
+- VS code
+- BEM
 
